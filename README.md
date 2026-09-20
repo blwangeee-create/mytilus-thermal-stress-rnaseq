@@ -270,12 +270,12 @@ WGCNA was also run at power = 7 for comparison. Module partitions differed (20 v
 ## Data availability
 
 - **Raw RNA-seq data**: NCBI SRA, BioProject [PRJNA934294](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA934294) (originally deposited by the source study)
-- **Analysis results**: Zenodo, DOI [to be added upon publication]
+- **Analysis results**: Zenodo, DOI [10.5281/zenodo.21890501]
 - **Analysis code**: this repository
 
 ## Citation
 
-[Manuscript citation to be added upon publication]
+[Manuscript in preparation]
 
 ## License
 
